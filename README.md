@@ -16,3 +16,9 @@ f
 dsa;f
 ds'fa
 ds'
+sd
+fd
+fdsa
+f;ds'
+f;as
+df;df[gld[]gls
